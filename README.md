@@ -324,9 +324,7 @@ Contributions welcome! Fork the repo, create a feature branch, and submit a PR. 
 - Thanks to PyGame and NumPy teams for robust libraries.
 - Inspired by *Flow Free* and similar path-connection puzzles.
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 ---
